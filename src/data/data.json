@@ -1,0 +1,21 @@
+{
+  "downloads": {
+    "status": 200,
+    "file_download": {
+      "link": "https://elements-downloads.envatousercontent.com/dca02e00-592e-4bc4-9ede-4e9c5f8e5478?response-content-disposition=attachment%3B+filename%2A%3DUTF-8%27%27stamp-in-retro-style-on-paper-mockup-template-2023-11-27-05-09-16-utc.zip&Expires=1725466667&Signature=TqfH6K1reb99Jl-cjIJ~Y-YoDKD26aptOuonVZmB7Zv0-YfaL3CNfIjmCoB5sM6Wv2N6wicQixhV7QD2mWAba0014EEktF1RqUOm06C1V5AlgffGne34IrR-WayeNlCzA5cgTnj4svBWhrBLXHHVPI9QhAbtoreo2CnRGSz0xMUHP-yROqKv5LT~mnLCA7Ao6lDz76yRHOul7lQbQ4blcUKq8RZr2tSC3G9W4-oC9oYhSOCUkXS2GOgJmeGijOgU5hzypfkwVS0eOI3wLUXYnEVkt4iyGzlEKjATVRzRDsRZKrRb7Wemp56dFHdgGPpMdU-aQavzk~KLkG0HHjQQeA__&Key-Pair-Id=APKAJ6HWV4WTNAJ4QQOQ",
+      "expire": "30s"
+    },
+    "licence_download": {
+      "link": "http://joshim.dev/short/1vmKm2YFZ",
+      "expire": "1 min - 1hr"
+    },
+    "more_api": {
+      "freepik_downloader_api": {
+        "link": "https://rapidapi.com/joshimuddin8212/api/freepik-downloader-api/playground"
+      },
+      "free_google_translator_api": {
+        "link": "https://rapidapi.com/joshimuddin8212/api/free-google-translator/playground"
+      }
+    }
+  }
+}
